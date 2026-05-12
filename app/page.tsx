@@ -148,12 +148,7 @@ export default function Home() {
       desc: "Worked on offline attendance capture using RFID devices and local database storage synced with the central server through APIs.",
       tech: ["C#", "API", "SQL Server"],
     },
-    {
-      title: "Dynamic Web Form Generator",
-      category: "Runtime Configuration",
-      desc: "Built dynamic runtime form generation based on master configuration supporting flexible business forms and workflows.",
-      tech: ["ASP.NET", "C#", "SQL Server", "JavaScript"],
-    },
+
     {
       title: "Employee Management API",
       category: "Modern Web API",
